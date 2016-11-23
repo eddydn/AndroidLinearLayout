@@ -1,0 +1,4 @@
+AndroidLinearLayout.MainActivity, AndroidLinearLayout;md59407900848c0fa01cdb6ba424ad8d951.MainActivity
+AndroidLinearLayout.MainActivity, AndroidLinearLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59407900848c0fa01cdb6ba424ad8d951.MainActivity
+AndroidLinearLayout.MainActivity;md59407900848c0fa01cdb6ba424ad8d951.MainActivity
+androidlinearlayout.MainActivity;md59407900848c0fa01cdb6ba424ad8d951.MainActivity
